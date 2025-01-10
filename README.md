@@ -1,3 +1,5 @@
+![mandrill_thumb_3x4](https://github.com/user-attachments/assets/97d3820a-e3b3-4c75-8445-13e672fc0bff)
+
 # Mandrill-Data Classification and Analysis
 ## Overview
 This project focuses on the classification and analysis of textual data related to "Mandrill". The goal is to identify posts mentioning Mandrill and classify them correctly using machine learning techniques. The project involves the use of natural language processing (NLP) and machine learning models to classify posts as either "Mandrill" or "inne" (other).
