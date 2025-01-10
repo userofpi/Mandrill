@@ -1,4 +1,4 @@
-# Project README: Mandrill-Data Classification and Analysis
+# Mandrill-Data Classification and Analysis
 ## Overview
 This project focuses on the classification and analysis of textual data related to "Mandrill". The goal is to identify posts mentioning Mandrill and classify them correctly using machine learning techniques. The project involves the use of natural language processing (NLP) and machine learning models to classify posts as either "Mandrill" or "inne" (other).
 The dataset is constructed from textual data and is processed using TF-IDF vectorization, followed by training machine learning models such as Naive Bayes and Logistic Regression. Additionally, performance evaluation is conducted through metrics such as accuracy, confusion matrices, and ROC-AUC curves.
